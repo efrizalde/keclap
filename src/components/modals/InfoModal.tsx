@@ -57,9 +57,9 @@ export const InfoModal = ({ isOpen, handleClose }: Props) => {
         Hurup I euweuh dina kecap jawaban.
       </p>
       <p className="mt-6 text-sm italic text-gray-500 dark:text-gray-300">
-        Diciptakeun di Padalarang - Bandung Barat. Nyandak tina proyek{' '}
+        Dihirupkeun deui di Cimahi. Nyandak tina proyek
         <a
-          href="https://github.com/cwackerfuss/react-wordle"
+          href="https://github.com/ruangchupa/keclap"
           target="_blank"
           rel="noopener noreferrer"
           className="font-bold underline"
@@ -68,8 +68,6 @@ export const InfoModal = ({ isOpen, handleClose }: Props) => {
         </a>
       </p>
       <p className="mt-6 text-sm italic text-gray-500 dark:text-gray-300">
-        Daptar kecap ku Muhammad Taupiq.
-        <br />
         Hosted ku mue.moe.
       </p>
     </BaseModal>
